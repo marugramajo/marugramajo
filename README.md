@@ -43,7 +43,7 @@ For more information visit the website of Rebirth:
 
 <h3><mark>&nbsp;Countries App&nbsp;</mark></h3>
 
-(https://user-images.githubusercontent.com/95096820/184960027-b3ce4e7d-4afb-4139-a851-5d4d36ac3df4.png)
+![maquetaHome](https://user-images.githubusercontent.com/95096820/184960027-b3ce4e7d-4afb-4139-a851-5d4d36ac3df4.png)
 
 
 <h4>Desarrollo de una SPA(Single Page Application) utilizando React para el Front End y Redux cómo stmanagement. Todos los componentes fueron desarrollados con CSS sin uso de librerías externas. 
