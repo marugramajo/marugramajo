@@ -46,6 +46,6 @@ For more information visit the website of Rebirth:
 ![maquetaHome](https://user-images.githubusercontent.com/95096820/184960027-b3ce4e7d-4afb-4139-a851-5d4d36ac3df4.png)
 
 
-<h4>Desarrollo de una SPA(Single Page Application) utilizando React para el Front End y Redux cómo stmanagement. Todos los componentes fueron desarrollados con CSS sin uso de librerías externas. 
-La SPA consume datos de una API (“REST Countries”) a través de un Back End desarrollado en Node.JS utilizando Express, agregando nuevas funcionalidades a la API original.
-Algunos features del proyecto: Cache de búsquedas, ordenamientos y filtros, formulario controlado para la creación de actividades turísticas.</h4>
+<h4>Development of a SPA (Single Page Application) using React for the Front End and Redux as stmanagement. All components were developed with CSS without the use of external libraries.
+The SPA consumes data from an API (“REST Countries”) through a Back End developed in Node.JS using Express, adding new functionalities to the original API.
+Some features of the project: Cache of searches, orders and filters, controlled form for the creation of tourist activities.</h4>
