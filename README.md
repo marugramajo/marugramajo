@@ -6,11 +6,11 @@
  
 <h3>Technologies</h3>
 Javascript  | TypeScript  | React  | Redux  | Node Js  |
-PostgreSQL  | Express  | Sequelize  | Firebase 
+PostgreSQL  | Express  | Sequelize  | Python
 
 
 
-- 📫 How to reach me: 👉👉 maru.gramajo@gmail.com
+<h2>- 📫 How to reach me: 👉👉 maru.gramajo@gmail.com</h2>
 <!-- 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
