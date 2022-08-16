@@ -39,3 +39,12 @@ For more information visit the website of Rebirth:
 
 <br/>
 <br/>
+
+
+<h3><mark>&nbsp;Countries App&nbsp;</mark></h3>
+
+![maquetaHome](blob:https://web.whatsapp.com/a9e7a145-7e8e-413b-8eae-be0ce17cb141)
+
+<h4>Desarrollo de una SPA(Single Page Application) utilizando React para el Front End y Redux cómo stmanagement. Todos los componentes fueron desarrollados con CSS sin uso de librerías externas. 
+La SPA consume datos de una API (“REST Countries”) a través de un Back End desarrollado en Node.JS utilizando Express, agregando nuevas funcionalidades a la API original.
+Algunos features del proyecto: Cache de búsquedas, ordenamientos y filtros, formulario controlado para la creación de actividades turísticas.</h4>
