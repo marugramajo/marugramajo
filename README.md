@@ -15,12 +15,7 @@ PostgreSQL  | Express  | Sequelize  | Python
 contact me:
 https://www.linkedin.com/in/marielgramajo/
 
- <a
-                        href="https://www.linkedin.com/in/marielgramajo/"
-                      
-                      >
-                        Linkedin
-                      </a>
+
 <!-- 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
