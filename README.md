@@ -6,29 +6,15 @@
  
 
 
-const marielGramajo = {
-  technologies: {
-    frontEnd: ["JavaScript", "HTML", "CSS", "React", "Redux"],
-    backEnd: ["express", "sequelize", "postgreSQL", "nodeJS"],
-    otherLanguages: [" python "],
-    tools: ["git", "gitHub", "vsCode"],
-  },
-};
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Java],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Redux"],
-         css: ["Bootstrap", "Material UI"]
-      },
-      backEnd: {
-         js: ["Node", "Express"]
-      },
-      databases: ["MongoDB", "PostgreSQL"],
-   },
-   currentOccupation: ["Tech Instructor at Henry"],
-};
+<h1>const marielGramajo = { </h1>
+  <h1>technologies: {
+  <h1>  frontEnd: ["JavaScript", "HTML", "CSS", "React", "Redux"],</h1>
+  <h1>  backEnd: ["express", "sequelize", "postgreSQL", "nodeJS"],</h1>
+  <h1>  otherLanguages: [" python "],</h1>
+   <h1> tools: ["git", "gitHub", "vsCode"],</h1>
+ <h1> },</h1>
+<h1>};</h1>
+
 
 
 
