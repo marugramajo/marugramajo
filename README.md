@@ -1,6 +1,6 @@
 ### Hi👋, I'm Mariel Gramajo 
 
-Javascript https://camo.githubusercontent.com/b33819ee780e17173c2be647ee0df7fe181fcc548c5bf334c809583550c27d02/68747470733a2f2f63646e2e706978616261792e636f6d2f70686f746f2f323031352f30342f32332f31372f34312f6a6176617363726970742d3733363430305f3936305f3732302e706e67  | TypeScript  | React  | Redux  | Node Js  |
+Javascript  ![image](https://user-images.githubusercontent.com/95096820/184950325-5e945d1a-3f13-4e01-96fe-3499a8d43fb6.png) TypeScript  | React  | Redux  | Node Js  |
 PostgreSQL  | Express  | Sequelize  | Firebase 
 <!--
 **marugramajo/marugramajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
