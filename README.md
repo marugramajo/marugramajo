@@ -6,14 +6,14 @@
  
 
 
-<h1>const marielGramajo = { </h1>
-  <h1>technologies: {
-  <h1>  frontEnd: ["JavaScript", "HTML", "CSS", "React", "Redux"],</h1>
-  <h1>  backEnd: ["express", "sequelize", "postgreSQL", "nodeJS"],</h1>
-  <h1>  otherLanguages: [" python "],</h1>
-   <h1> tools: ["git", "gitHub", "vsCode"],</h1>
- <h1> },</h1>
-<h1>};</h1>
+<h4>const marielGramajo = { </h4>
+  <h4>technologies: {</h4>
+  <h4>  frontEnd: ["JavaScript", "HTML", "CSS", "React", "Redux"],</h4>
+  <h4>  backEnd: ["express", "sequelize", "postgreSQL", "nodeJS"],</h4>
+  <h4>  otherLanguages: [" python "],</h4>
+   <h4> tools: ["git", "gitHub", "vsCode"],</h4>
+ <h4> },</h4>
+<h4>};</h4>
 
 
 
