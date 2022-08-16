@@ -1,19 +1,30 @@
 ### Hi👋, I'm Mariel Gramajo 
 
-Javascript ![image](https://user-images.githubusercontent.com/95096820/184950957-f2e6a6ad-14fc-4821-b852-b7a076e1f73d.png)
- | TypeScript  | React  | Redux  | Node Js  |
-PostgreSQL  | Express  | Sequelize  | Firebase 
-<!--
-**marugramajo/marugramajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ![image](https://user-images.githubusercontent.com/95096820/184950957-f2e6a6ad-14fc-4821-b852-b7a076e1f73d.png)
+ 
+ 
+ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+const marielGramajo = {
+  technologies: {
+    frontEnd: ["JavaScript", "HTML", "CSS", "React", "Redux"],
+    backEnd: ["express", "sequelize", "postgreSQL", "nodeJS"],
+    otherLanguages: [" python "],
+    tools: ["git", "gitHub", "vsCode"],
+  },
+};
+
+
+
+- 📫 How to reach me: 👉👉 maru.gramajo@gmail.com
+<!-- 
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
