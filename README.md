@@ -11,6 +11,16 @@ PostgreSQL  | Express  | Sequelize  | Python
 
 
 <h2>- 📫 How to reach me: 👉👉 maru.gramajo@gmail.com</h2>
+
+contact me:
+https://www.linkedin.com/in/marielgramajo/
+
+ <a
+                        href="https://www.linkedin.com/in/marielgramajo/"
+                      
+                      >
+                        Linkedin
+                      </a>
 <!-- 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
