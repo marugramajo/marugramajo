@@ -4,14 +4,14 @@
  
  I am a Full Stack Developer.
 
-Finishing my degree in Psychopedagogy, I discovered almost by chance the world of programming, and I was fascinated by it. A world where the possibility of creating new and unique things is within the reach of a few lines of code, I find it incredible! Thus, with how wonderful learning is, I had the opportunity to train and be part of #Henry, where I learned to use technologies such as:
+<h3>Finishing my degree in Psychopedagogy, I discovered almost by chance the world of programming, and I was fascinated by it. A world where the possibility of creating new and unique things is within the reach of a few lines of code, I find it incredible! Thus, with how wonderful learning is, I had the opportunity to train and be part of #Henry, where I learned to use technologies such as:</h3>
 
-<h3>⚡Programming language: JavaScript.
-⚡Web Technologies: NodeJS, Bootstrap, CSS, HTML.
-⚡Framework/ Libraries: ReactJS, Redux, Express.
-⚡Database: PostgreSQL, Sequelize.
-⚡Project Management: Trello, Slack.
-⚡Version control: Git, Github.</h3>
+<h4>⚡Programming language: JavaScript.</h4>
+<h4>⚡Web Technologies: NodeJS, Bootstrap, CSS, HTML.</h4>
+<h4>⚡Framework/ Libraries: ReactJS, Redux, Express.</h4>
+<h4>⚡Database: PostgreSQL, Sequelize.</h4>
+<h4>⚡Project Management: Trello, Slack.</h4>
+<h4>⚡Version control: Git, Github.</h4>
  
 
 
